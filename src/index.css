@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  color: #333;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100%;
+}
